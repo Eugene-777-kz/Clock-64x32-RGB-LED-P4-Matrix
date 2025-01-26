@@ -36,7 +36,7 @@
 28. Возможность включать и отключать экраны или бегущие строки информации.
 
 
-Автор проекта Игорь Шилов - https://vk.com/id570315884 .
-Шрифты от Alex Adresat - https://vk.com/public204990074 .
-Сайт - vk.link/clock64x32rgbledmatrix .
-Обсуждение проекта - https://vk.com/topic-204990074_49057697?offset=0 .
+* Автор проекта Игорь Шилов - https://vk.com/id570315884 .
+* Шрифты от Alex Adresat - https://vk.com/public204990074 .
+* Сайт - vk.link/clock64x32rgbledmatrix .
+* Обсуждение проекта - https://vk.com/topic-204990074_49057697?offset=0 .
