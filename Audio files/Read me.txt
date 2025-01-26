@@ -1,0 +1,13 @@
+Files fo DFPlayer
+
+Unpack with 7z and put the folders 01, 04, 05.....23 to the root of sd card like this:
+
+SD
+/*ROOT
+ /01
+ /04
+ /05 
+ .
+ .
+ .
+ /23 
